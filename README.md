@@ -12,6 +12,8 @@ Neste curso foi ensinado como fazer o pré-processamento em bases de dados com p
 [Census](https://github.com/Gttz/Projetos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/census.ipynb)
 * **Modelo de Regressão:**
 [house_prices](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/house_prices.ipynb)
+* **Modelo de Regras de associação:**
+[market_basket](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/market.ipynb)
 
 <h2>Cursos 📚</h2>
 <p>Aqui estão listados os cursos que estou realizando e os que eu já realizei (e os que eu pretendo iniciar rs)</p>
