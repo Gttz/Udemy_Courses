@@ -11,3 +11,7 @@ Neste curso foi ensinado como fazer o pré-processamento em bases de dados com p
 [market_basket](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/market.ipynb)
 * **Modelo de Agrupamento:**
 [credit_card](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/credit_card.ipynb)
+
+<h2 align='center'>Certificado de conclusão</h2>
+
+<img src="https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/certificadoML.jpg" float="center"/>
