@@ -5,6 +5,7 @@ Neste curso foi ensinado a teoria e a prática de como construir redes neurais a
 ## Projetos realizados no curso:
 * **Modelo de Classificação:** [breast_cancer](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/breast_cancer.ipynb)
 * **Modelo de Classificação:** [iris](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/iris.ipynb)
-* **Modelo de Regressão:** [games]() (Em andamento)
+* **Modelo de Regressão:** [autos](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/autos.ipynb)
+* **Modelo de Regressão:** [games](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/games.ipynb)
 * **Modelo de Redes Neurais Convolucionais:** [...]() (Em construção)
 * **Modelo de Redes Neurais Recorrentes:** [...]() (Em construção)
