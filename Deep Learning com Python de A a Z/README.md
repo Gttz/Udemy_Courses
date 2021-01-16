@@ -10,4 +10,5 @@ Neste curso foi ensinado a teoria e a prática de como construir redes neurais a
 * **Modelo de Regressão:** [games](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/games.ipynb)
 * **Modelo de Redes Neurais Convolucionais:** [cats_dogs](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/cats_dogs.ipynb)
 * **Modelo de Redes Neurais Convolucionais:** [conv_homer_bart](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/conv_homer_bart.ipynb)
+* **Modelo de Redes Neurais Recorrentes:** [petr4](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/petr4.ipynb)
 * **Modelo de Redes Neurais Recorrentes:** [...]() (Em construção)
