@@ -1,5 +1,5 @@
 
-[![author](https://img.shields.io/badge/author-LucasAraujo-black.svg)](https://www.linkedin.com/in/lucasaraujo0255/)
+[![author](https://img.shields.io/badge/author-Gttz-black.svg)](https://www.linkedin.com/in/lucasaraujo0255/)
 [![](https://img.shields.io/badge/python-3.7+-green.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
@@ -10,9 +10,6 @@
 
 # Machine Learning e Data Science com Python de A a Z
 Nestes cursos foram ensinados como fazer o pré-processamento em bases de dados com pandas e scikit-learn, a base teórica sobre os principais algoritmos de Machine Learning e a realização de projetos de diferentes tipos, tais como: classificação, regressão, regras de associação e agrupamento.
-
-# Deep Learning com Python de A a Z
-Neste curso foi ensinado a teoria e a prática de como construir redes neurais artificiais, redes neurais recorrentes, mapas auto organizáveis, boltzmann machines, auto encoders e redes adversariais generativas. Foram realizados projetos de diferentes tipos, tais como: classificação, regressão, redes neurais convolucionais, recorrentes e sistemas de recomendação.
 
 ## Problemas de Classificação
 Os problemas de classificação são aqueles onde se é buscado encontrar uma ou mais classes, onde essa classe poderia ser se uma pessoa tem determinada doença ou não, se é um cachorro ou um gato, se é 0 ou 1, dentre outras possibilidades, que neste caso a previsão será um ou outro.
@@ -56,6 +53,9 @@ Os problemas de Agrupamento consistem em agrupar determinados usuários/produtos
 * **Projeto 9 - [credit_card](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/credit_card.ipynb)**
   - Projeto de Machine Learning onde é realizado o agrupamento de usuários que tem gastos e limites de créditos baixos/médios/altos.
 
+# Deep Learning com Python de A a Z
+Neste curso foi ensinado a teoria e a prática de como construir redes neurais artificiais, redes neurais recorrentes, mapas auto organizáveis, boltzmann machines, auto encoders e redes adversariais generativas. Foram realizados projetos de diferentes tipos, tais como: classificação, regressão, redes neurais convolucionais, recorrentes e sistemas de recomendação.
+
 ## Modelo de Redes Neurais Convolucionais
 Os modelos de Redes Neurais Convolucionais (CNN) são mais utilizadas em visão computacional, processamento e análise de imagens e detecção de objetos, etc.
 
@@ -72,13 +72,13 @@ Os modelos de Redes Neurais Recorrentes (RNN) são mais utilizadas em análises 
   - Projeto de Deep Learning que é realizado a previsão dos preços das bolsas de valores utilizando a base de dados da petrobras dos anos de 2013 a 2014
 
 * **Projeto 13 - [poluicao_china](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/poluicao_china.ipynb)**
-  -Projeto de Deep Learning que é realizado a previsão dos valores da poluição na china.
+  - Projeto de Deep Learning que é realizado a previsão dos valores da poluição na china.
 
 ## Modelo de Mapas Auto Organizáveis
 Os modelos de Mapas Auto Organizáveis são utilizados para detecção de características e agrupamento.
 
 * **Projeto 14 - [wines](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/wines.ipynb)**
-  -Projeto de Deep Learning que é realizado o mapa auto organizável de uma base de dados de vinhos na região da itália, porém derivados de 3 cultivadores diferentes.
+  - Projeto de Deep Learning que é realizado o mapa auto organizável de uma base de dados de vinhos na região da itália, porém derivados de 3 cultivadores diferentes.
 
 * **Projeto 15 - [breast_cancer-map](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/breast_cancer-map.ipynb)**
   - Projeto de Deep Learning onde é realizado o mapaa auto organizável do diagnóstico de câncer de mama que prevê se um tumor é maligno ou se um tumor é benigno.
