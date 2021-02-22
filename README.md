@@ -11,7 +11,7 @@
 # Machine Learning e Data Science com Python de A a Z
 Nestes cursos foram ensinados como fazer o pré-processamento em bases de dados com pandas e scikit-learn, a base teórica sobre os principais algoritmos de Machine Learning e a realização de projetos de diferentes tipos, tais como: classificação, regressão, regras de associação e agrupamento.
 
-## Problemas de Classificação
+### Problemas de Classificação
 Os problemas de classificação são aqueles onde se é buscado encontrar uma ou mais classes, onde essa classe poderia ser se uma pessoa tem determinada doença ou não, se é um cachorro ou um gato, se é 0 ou 1, dentre outras possibilidades, que neste caso a previsão será um ou outro.
 
 * **Projeto 1 - [Credit-data](https://github.com/Gttz/Projetos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/credit-data.ipynb)**
@@ -28,7 +28,7 @@ Os problemas de classificação são aqueles onde se é buscado encontrar uma ou
 * **Projeto 4 - [iris](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/iris.ipynb)**
   - Projeto de Machine Learning onde é realizado a classificação de três tipos de plantas (Iris-Versicolor, Iris-Setosa e Iris-Virginica)
 
-## Problemas de Regressão
+### Problemas de Regressão
 Os problemas de regressão são quando é necessário prever um valor númerico, como o preço de determinada casa, preço de automóveis, peso ou altura de uma determinada pessoa, etc.
 
 * **Projeto 5 -[house_prices](https://github.com/Gttz/CursosDataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/house_prices.ipynb)**
@@ -41,13 +41,13 @@ Os problemas de regressão são quando é necessário prever um valor númerico,
 * **Projeto 7 - [games](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/games.ipynb)**
   - Projeto de Machine Learning onde é realizado a previsão da venda de determinados jogos, porém foi realizado a previsão de 3 valores (Vendas no Japão, Vendas na América do norte e vendas na Europa)
 
-## Problemas de Regras de Associação
+### Problemas de Regras de Associação
 Os problemas de Regras de associação são aqueles que procuram identificar conjuntos de itens frequentes (neste caso, pares de itens) e padrões frequentes em conjuntos de dados.
 
 * **Projeto 8 - [market_basket](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/market.ipynb)**
   - Projeto de Machine Learning onde é realizado a identificação dos conjuntos de alimentos frequentes comprados no mercado.
 
-## Problemas de Agrupamento
+### Problemas de Agrupamento
 Os problemas de Agrupamento consistem em agrupar determinados usuários/produtos/itens.
 
 * **Projeto 9 - [credit_card](https://github.com/Gttz/Cursos-DataScience/blob/main/Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z/notebooks/credit_card.ipynb)**
@@ -56,7 +56,7 @@ Os problemas de Agrupamento consistem em agrupar determinados usuários/produtos
 # Deep Learning com Python de A a Z
 Neste curso foi ensinado a teoria e a prática de como construir redes neurais artificiais, redes neurais recorrentes, mapas auto organizáveis, boltzmann machines, auto encoders e redes adversariais generativas. Foram realizados projetos de diferentes tipos, tais como: classificação, regressão, redes neurais convolucionais, recorrentes e sistemas de recomendação.
 
-## Modelo de Redes Neurais Convolucionais
+### Modelo de Redes Neurais Convolucionais
 Os modelos de Redes Neurais Convolucionais (CNN) são mais utilizadas em visão computacional, processamento e análise de imagens e detecção de objetos, etc.
 
 * **Projeto 10 - [cats_dogs](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/cats_dogs.ipynb)**
@@ -65,7 +65,7 @@ Os modelos de Redes Neurais Convolucionais (CNN) são mais utilizadas em visão 
 * **Projeto 11 - [conv_homer_bart](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/conv_homer_bart.ipynb)**
   - Projeto de Deep Learning que é realizado a previsão se uma determinada imagem é o personagem homer ou o personagem bart.
 
-## Modelo de Redes Neurais Recorrentes
+### Modelo de Redes Neurais Recorrentes
 Os modelos de Redes Neurais Recorrentes (RNN) são mais utilizadas em análises de séries temporais.
 
 * **Projeto 12 - [petr4](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/petr4.ipynb) & [petr4_multi](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/petr4-multi.ipynb)**
@@ -74,7 +74,7 @@ Os modelos de Redes Neurais Recorrentes (RNN) são mais utilizadas em análises 
 * **Projeto 13 - [poluicao_china](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/poluicao_china.ipynb)**
   - Projeto de Deep Learning que é realizado a previsão dos valores da poluição na china.
 
-## Modelo de Mapas Auto Organizáveis
+### Modelo de Mapas Auto Organizáveis
 Os modelos de Mapas Auto Organizáveis são utilizados para detecção de características e agrupamento.
 
 * **Projeto 14 - [wines](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/wines.ipynb)**
@@ -83,13 +83,13 @@ Os modelos de Mapas Auto Organizáveis são utilizados para detecção de caract
 * **Projeto 15 - [breast_cancer-map](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/breast_cancer-map.ipynb)**
   - Projeto de Deep Learning onde é realizado o mapaa auto organizável do diagnóstico de câncer de mama que prevê se um tumor é maligno ou se um tumor é benigno.
 
-## Modelo de Boltzmann Machines
+### Modelo de Boltzmann Machines
 Os modelos de Boltzmann Machines são utilizados para sistemas de recomendação e redução de dimensionalidade de imagens.
 
 * **Projeto 16 - [movies_boltzmann](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/movies_boltzmann.ipynb)**
   - Projeto de Deep Learning onde é realizado um sistema de recomendação de filmes de determinadas tipos de filmes (terror e comédia)
 
-## Modelo de Autoencoders
+### Modelo de Autoencoders
 Os modelos de Autoencoder são focados em redução de dimensionalidade de imagens.
 
 * **Projeto 17 -  [mnist_autoencoder](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/mnist_autoencoder.ipynb) & [mnist_autoencoder_convolutional](https://github.com/Gttz/Cursos-DataScience/blob/main/Deep%20Learning%20com%20Python%20de%20A%20a%20Z/notebooks/mnist_autoencoder_convolutional.ipynb)**
